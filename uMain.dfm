@@ -29,8 +29,6 @@ object FMain: TFMain
     OptionsPrefilter.Visible = pfvAlways
     TabOrder = 0
     OnCustomization = PivotGridCustomization
-    ExplicitLeft = 48
-    ExplicitTop = 97
     object PivotGridCOMPANY: TcxDBPivotGridField
       Area = faRow
       AreaIndex = 0
