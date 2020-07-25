@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/20 15:26:14.000.290,=C:\Users\luiz.clazzer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/20 15:26:45.000.457,C:\Users\luiz.clazzer\Documents\Embarcadero\Studio\Projects\Unit1.pas=P:\UsoLocal\DevExpress\PivotGrid\uTalentPivotGrid.pas</Transaction>
+    <Transaction>2019/09/20 15:26:45.000.457,C:\Users\luiz.clazzer\Documents\Embarcadero\Studio\Projects\Unit1.dfm=P:\UsoLocal\DevExpress\PivotGrid\uTalentPivotGrid.dfm</Transaction>
+    <Transaction>2019/09/20 15:26:56.000.246,C:\Users\luiz.clazzer\Documents\Embarcadero\Studio\Projects\Project1.dproj=P:\UsoLocal\DevExpress\PivotGrid\TalentPivotGrid.dproj</Transaction>
+    <Transaction>2019/09/22 23:18:10.000.943,=P:\UsoLocal\DevExpress\PivotGrid\Unit2.pas</Transaction>
+    <Transaction>2019/09/22 23:18:21.000.041,P:\UsoLocal\DevExpress\PivotGrid\uSqlEdit.pas=P:\UsoLocal\DevExpress\PivotGrid\Unit2.pas</Transaction>
+    <Transaction>2019/09/22 23:18:21.000.041,P:\UsoLocal\DevExpress\PivotGrid\uSqlEdit.dfm=P:\UsoLocal\DevExpress\PivotGrid\Unit2.dfm</Transaction>
+    <Transaction>2020/07/25 16:04:20.078,P:\UsoLocal\DevExpress\DataCubePivotGrid\DataCubePivotGrid.dproj=P:\UsoLocal\DevExpress\DataCubePivotGrid\TalentPivotGrid.dproj</Transaction>
+    <Transaction>2020/07/25 16:05:04.264,P:\UsoLocal\DevExpress\DataCubePivotGrid\uMain.pas=P:\UsoLocal\DevExpress\DataCubePivotGrid\uTalentPivotGrid.pas</Transaction>
+    <Transaction>2020/07/25 16:05:04.264,P:\UsoLocal\DevExpress\DataCubePivotGrid\uMain.dfm=P:\UsoLocal\DevExpress\DataCubePivotGrid\uTalentPivotGrid.dfm</Transaction>
+    <Transaction>2020/07/25 16:09:13.743,=P:\UsoLocal\DevExpress\DataCubePivotGrid\Unit1.pas</Transaction>
+    <Transaction>2020/07/25 16:09:53.981,P:\UsoLocal\DevExpress\DataCubePivotGrid\uDM.dfm=P:\UsoLocal\DevExpress\DataCubePivotGrid\Unit1.dfm</Transaction>
+    <Transaction>2020/07/25 16:09:53.981,P:\UsoLocal\DevExpress\DataCubePivotGrid\uDM.pas=P:\UsoLocal\DevExpress\DataCubePivotGrid\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
